@@ -1,5 +1,5 @@
 # Large-size-matrix-multiplication
-Comparative performance study of different programming languages for long size in matrix multiplication
+Comparative performance study of different programming languages for large size in matrix multiplication
 
 Analysis of execution time of various programming language was done taking large matrix of various sizes and depicted table and chart:
 
